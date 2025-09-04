@@ -1,9 +1,11 @@
-# Task-2
+[Product_retail_sales.csv](https://github.com/user-attachments/files/22140483/Product_retail_sales.csv)# Task-2
 
 ## 📊 Exploratory Data Analysis (EDA) on Product Retail Sales
 ### Objective
 
 The goal of this project was to perform Exploratory Data Analysis (EDA) on a retail sales dataset to uncover meaningful business insights, identify trends, detect anomalies, and understand relationships between variables.
+### Data set : [Uploading Product_retail_sales.csv…]()
+
 ## Tools & Libraries
 
 - Python: Pandas, NumPy, Matplotlib, Seaborn
