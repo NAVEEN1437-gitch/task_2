@@ -8,7 +8,7 @@ The goal of this project was to perform Exploratory Data Analysis (EDA) on a ret
 
 ## Tools & Libraries
 
-- Python: Pandas, NumPy, Matplotlib, Seaborn
+- Python: Pandas, Matplotlib, Seaborn
 
 - Jupyter Notebook for analysis
 
